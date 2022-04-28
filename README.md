@@ -7,7 +7,7 @@
 
 Welcome to my Github page!  I am Deepesh kumar jain and I am Student of B.Tech CSE at JECRC UNIVERSITY!
 
-<img align="right" alt="img" src="https://res.cloudinary.com/practicaldev/image/fetch/s--9-YwTAOI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m88zefbp97nlvfxavsmy.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/dip14-j/dip14-j/blob/main/dip%20cy.jpg" width="50%" height="auto" />
 
 
 
