@@ -17,12 +17,11 @@ Welcome to my Github page!  I am Deepesh kumar jain and I am Student of B.Tech C
 - Pre Final Year Computer science Engineering(2020-2024) Graduation Degree.
 - Community member of Voiceflow Rajasthan .  
 - Web Development And Data structures&Algorithms.
-- Looking always for internship.
+- Devops Engineering .
 
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 2 hours a day
+
 - Intrested in Acadmics part of study. (Not for top!)
 - Improving my CV with some education apart from university
 
